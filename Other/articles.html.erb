@@ -1,0 +1,14 @@
+<% provide(:title, "Articles") %>
+<h1>Sample App</h1>
+
+  <div class="center jumbotron">
+    <p>
+    Here you can find a fine selection of articles written by Pullus & Pullus!
+    </p>
+    
+    
+    <%= link_to "Write a new article!", signup_path, class: "btn btn-lg btn-primary" %>  
+  </div>
+  
+  <%= link_to image_tag("rails.png", alt: "Rails logo"),
+              'http://rubyonrails.org' %>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Articles | Ruby on Rails Tutorial Sample App</title>
+  </head>
+  <body>
+    <h1>Articles</h1>
+    <p>
+    Here you can find a fine selection of articles written by Pullus & Pullus!
+    </p>
+  </body>
+  </html>
